@@ -41,9 +41,11 @@ There are three steps that occur automatically when the update process runs for 
 
 When you install Office 365 ProPlus, a scheduled task called Office Automatic Updates is created. This scheduled task is configured to look for updates at the following times:
   
-- Every Sunday, Tuesday, and Friday, at a randomly selected time between 3:00 AM and 7:00 AM.
+- Daily, at a randomly selected time between 3:00 AM and 7:00 AM.
     
-- 15, 30, and 75 minutes after the user logs on to the computer.
+- At logon of any user.
+   
+- When the computer is idle.
     
 ![Automatic updates](images/2a4e0cfb-828b-4881-9db9-468a2b597b7d.jpg)
   
