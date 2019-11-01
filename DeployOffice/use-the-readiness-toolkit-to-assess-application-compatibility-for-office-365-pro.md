@@ -486,7 +486,7 @@ For more information about macro setting choices, see [Enable or disable macros 
 
 If an add-in is classified as "Unknown" or "Insufficient data" this means that Microsoft doesn't yet have sufficient information regarding the add-in to provide a readiness status. If this is an add-in that is business critical for your organization, you can do the following:
 
-- Contact the software provider who developed this add-in to see if the add-in is supported for Office 365 ProPlus. Also, you can request that your software provider list the add-in's support for Office 365 ProPlus on the [Ready for Windows](https://go.microsoft.com/fwlink/p/?linkid=860044) site. By listing the add-in, the software provider can make the add-in's support status for Office 365 ProPlus available to other enterprises.
+- Contact the software provider who developed this add-in to see if the add-in is supported for Office 365 ProPlus. 
 
 - Contact us at [ReadyForOffice@microsoft.com](mailto:ReadyForOffice@microsoft.com). We'll do our best to add the readiness status of the add-in to our database. Please provide as much information about the add-in as possible including, but not limited to, the following:
 
@@ -500,6 +500,7 @@ If an add-in is classified as "Unknown" or "Insufficient data" this means that M
 
   - Other details, such as the type of add-in, which Office app the add-in is used with, the Prog ID, or the CLSID.
 
+- Engage the Desktop App Assure team to obtain advisory and remediation guidance if you encounter app compatibility issues. This is available for FastTrack eligible customers. Learn more. (https://docs.microsoft.com/fasttrack/win-10-daa-assistance-offered)
 
 <a name="errorinfo"> </a>
 
